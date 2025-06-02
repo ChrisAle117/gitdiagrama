@@ -1,1 +1,17 @@
 Contenido inicial
+<<<<<<< HEAD
+<<<<<<< HEAD
+User1: Implementando Caracteristica A - Parte 1
+User1: Implementando Caracteristica A - Parte 2
+=======
+User2: Implementando Caracteristica B - Parte 1
+User2: Implementando Caracteristica B - Parte 2
+User2: Implementando Caracteristica B - Parte 3
+User2: Implementando Caracteristica B - Parte 4
+User2: Implementando Caracteristica B - Parte 5 (post-merge)
+>>>>>>> 850c054118bdeae7fca2a52f1f5d7def59546256
+=======
+User3: Corrigiendo Bug C - Parte 1
+User3: Corrigiendo Bug C - Parte 2
+>>>>>>> 418a4c752a08adf3b41ee9c95bc19d5047470776
+Release: Ajustes finales antes de produccion
