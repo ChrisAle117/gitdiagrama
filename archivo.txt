@@ -3,3 +3,4 @@ User2: Implementando Caracteristica B - Parte 1
 User2: Implementando Caracteristica B - Parte 2
 User2: Implementando Caracteristica B - Parte 3
 User2: Implementando Caracteristica B - Parte 4
+User2: Implementando Caracteristica B - Parte 5 (post-merge)
