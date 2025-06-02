@@ -1,2 +1,3 @@
 Contenido inicial
 User2: Implementando Caracteristica B - Parte 1
+User2: Implementando Caracteristica B - Parte 2
